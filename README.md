@@ -31,6 +31,3 @@ Her bir alt paketin asıl amacı şunlardır:
 *Reçete sistemi oluşturma başta olmak üzere çeşitli alanlarda geliştirmeye devam edeceğim
 
 **Geliştici:Semih Köse
-
-
-**Geliştirici: Semih Köse
